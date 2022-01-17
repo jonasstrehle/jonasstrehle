@@ -16,7 +16,7 @@
 ## 🧑 About me
 
 <p>
-  I'm a 20yo computer science student from germany.
+  I'm a 21yo computer science student from germany.
 </p>
 
 <h2>🥇 Specialised in</h2>
