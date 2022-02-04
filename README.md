@@ -62,6 +62,7 @@
 <p align="center"> <a href="https://github.com/jonasstrehle"><img src="https://github-profile-trophy.vercel.app/?username=jonasstrehle&margin-w=5&theme=radical" alt="jonasstrehle" /></a> </p>
 
 <br>
-
-
+<p align="center">
+	<img src="https://github.com/jonasstrehle/jonasstrehle/blob/output/github-contribution-grid-snake.svg">
+</p>
 
