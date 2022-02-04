@@ -1,5 +1,21 @@
-- uses: Platane/snk@master
-  with:
-    github_user_name: ${{ github.repository_owner }}
-    gif_out_path: resources/contributions.gif
-    svg_out_path: resources/contributions.svg
+name: generate animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" 
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: generate contributions.svg
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: resources/contributions.svg
