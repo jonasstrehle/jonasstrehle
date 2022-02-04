@@ -12,10 +12,22 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
-      - name: generate contributions.svg
+      - name: generate contributions.svg and contributions.svg
+        id: generate-gif
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: resources/contributions.svg
+           github_user_name: ${{ github.repository_owner }}
+           gif_out_path: resources/contributions.gif
+           svg_out_path: resources/contributions.svg
+           
+      - name: ensure the generated file exists
+        run: |
+          ls -l ${{ steps.generate-gif.outputs.gif_out_path }}
+          test -f ${{ steps.generate-gif.outputs.gif_out_path }}
+      - uses: crazy-max/ghaction-github-pages@v2.5.0
+        with:
+          target_branch: main
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
