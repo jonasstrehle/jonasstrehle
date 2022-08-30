@@ -16,7 +16,7 @@
 ## 🧑 About me
 
 <p>
-  I'm a 21yo computer science student from germany. I do a lot of personal programming projects and some security research.<br>At the time I'm working in the civil aviation industry.
+  I'm a 22yo computer science student from germany. I do a lot of personal programming projects and some security research.<br>At the time I'm working in the civil aviation industry.
 </p>
 
 
