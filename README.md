@@ -16,12 +16,12 @@
 ## 🧑 About me
 
 <p>
-Name: [_________]
-Age: 22,
-Location: Germany,
-Education: Computer Science (undergraduate),
-About me:
-I do a lot of personal programming projects, and I am intrested in security research.<br>I am currently working as an [______] in civil aviation.
+Name: [_________],<br>
+Age: 22,<br>
+Location: Germany,<br>
+Education: Computer Science (undergraduate),<br>
+About me:<br>
+I do a lot of personal programming projects, and I am interested in cybersecurity. <br> I am currently working as an [______] in civil aviation.
 </p>
 
 * [LinkedIn](https://www.linkedin.com/in/jonasstrehle)
