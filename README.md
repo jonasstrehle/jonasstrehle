@@ -16,7 +16,12 @@
 ## 🧑 About me
 
 <p>
-  I'm a 22yo computer science student from germany. I do a lot of personal programming projects and some security research.<br>At the time I'm working in the civil aviation industry.
+Name: [_________],<br>
+Age: 22,<br>
+Location: Germany,<br>
+Education: Computer Science (undergraduate),<br>
+About me:<br>
+I do a lot of personal programming projects, and I am interested in cybersecurity. <br> I am currently working as an [______] in civil aviation.
 </p>
 
 * [LinkedIn](https://www.linkedin.com/in/jonasstrehle)
