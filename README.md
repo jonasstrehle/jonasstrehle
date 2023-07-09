@@ -21,7 +21,7 @@
 For more than three years now, we have been working with an ever-growing team on [unyt.org](https://unyt.org): a free open-source project that establishes the new standard for communication, focusing on privacy, security and data ownership. We are creating the **Supranet**!
 </p>
 
-* [LinkedIn](https://www.linkedin.com/in/jonasstrehle) • /in/jonasstrehle
+* [LinkedIn](https://www.linkedin.com/in/jonasstrehle) • in/jonasstrehle
 * [Twitter](https://twitter.com/jonasstrehle) • @jonasstrehle
 * [E-Mail](mailto:jonas@strehles.info) • jonas[at]strehles.info
 * [GitHub](https://github.com/unyt-org) • @unyt-org
