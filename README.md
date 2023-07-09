@@ -4,7 +4,7 @@
     
     
 <h4 align='center'>
-  🚀 Dreamer 🚀
+  🚀 Check out my work at <a href="https://github.com/unyt-org">unyt.org</a>! 🚀
 </h4>
 
 <p align="center">
@@ -16,13 +16,15 @@
 ## 🧑 About me
 
 <p>
-  I'm a 22yo computer science student from germany. I do a lot of personal programming projects and some security research.<br>At the time I'm working in the civil aviation industry.
+  I's me - <b>Jonas Strehle</b> - a 22yo developer living in southern Germany. I do a lot of personal programming projects and some security research. At the time I'm working in the civil aviation industry ✈️. 
+
+For more than three years now, we have been working with an ever-growing team on [unyt.org](https://unyt.org): a free open-source project that establishes the new standard for communication, focusing on privacy, security and data ownership. We are creating the **Supranet**!
 </p>
 
-* [LinkedIn](https://www.linkedin.com/in/jonasstrehle)
-* [Twitter](https://twitter.com/jonasstrehle)
-* [E-Mail](mailto:jonas@strehles.info)
-
+* [LinkedIn](https://www.linkedin.com/in/jonasstrehle) • /in/jonasstrehle
+* [Twitter](https://twitter.com/jonasstrehle) • @jonasstrehle
+* [E-Mail](mailto:jonas@strehles.info) • jonas[at]strehles.info
+* [GitHub](https://github.com/unyt-org) • @unyt-org
 
 <h2>🥇 Specialised in</h2>
 <p>
