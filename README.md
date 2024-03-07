@@ -3,9 +3,9 @@
 </h2>
     
     
-<h4 align='center'>
+<h3 align='center'>
   🚀 Check out my work at <a href="https://github.com/unyt-org">unyt.org</a>! 🚀
-</h4>
+</h3>
 
 <p align="center">
      <a href="https://github.com/jonasstrehle">
@@ -18,7 +18,7 @@
 <p>
   It's me - <b>Jonas Strehle</b> - a 23yo developer living in southern Germany. I do a lot of personal programming projects and some security research. At the time I'm working in the civil aviation industry ✈️. 
 
-For more than three years now, we have been working with an ever-growing team on [unyt.org](https://unyt.org): a free open-source project that establishes the new standard for communication, focusing on privacy, security and data ownership. We are creating the **Supranet**!
+For more than three years now, we have been working with an ever-growing team on [unyt.org](https://unyt.org): a free open-source project that establishes the new standard for communication, focusing on privacy, security and data ownership. We are creating the **[Supranet](https://unyt.org/supranet)**!
 </p>
 
 * [LinkedIn](https://www.linkedin.com/in/jonasstrehle) • in/jonasstrehle
