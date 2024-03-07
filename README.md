@@ -28,12 +28,25 @@ For more than three years now, we have been working with an ever-growing team on
 
 <h2>🥇 Specialised in</h2>
 <p>
-  🔸 Web3.0
-  <br>🔸 Blockchain
-  <br>🔸 FrontEnd - React.js, React-Native
-  <br>🔸 BackEnd - Node, Express
-  <br>🔸 Languages - Typescript, Python, Java, C#, C++, C
+  <h3>🔸 unyt.org project</h3>
+	<ul>
+		<li>UIX</li>
+		<li>DATEX</li>
+	</ul>
+  <h3>🔸 Web development</h3>
+  	<ul>
+		<li>full-stack</li>
+	</ul>
+  <h3>🔸 Languages</h3>
+  	<ul>
+		<li>TypeScript</li>
+		<li>Java</li>
+		<li>C#</li>
+		<li>C++</li>
+		<li>Python</li>
+	</ul>
 <p>
+<br/>
 
 <a href="https://github.com/jonasstrehle" style="width: 100%">
   <img src="https://github-readme-stats.vercel.app/api?username=jonasstrehle&show_icons=true&theme=radical" alt="" height="150px"/>
