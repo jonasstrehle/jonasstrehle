@@ -4,7 +4,7 @@
     
     
 <h3 align='center'>
-  🚀 Check out my work at <a href="https://github.com/unyt-org">unyt.org</a>! 🚀
+  🚀 Check out my work at <a href="https://github.com/unyt-org">@unyt-org</a>! 🚀
 </h3>
 
 <p align="center">
