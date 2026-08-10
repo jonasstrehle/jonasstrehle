@@ -16,7 +16,7 @@
 ## 🧑 About me
 
 <p>
-  It's me - <b>Jonas Strehle</b> - a 25yo developer living in southern Germany. I do a lot of personal programming projects and some security research. At the time I'm working in the civil aviation industry ✈️. 
+  It's me - <b>Jonas Strehle</b> - a 26yo developer living in southern Germany. I do a lot of personal programming projects and some security research. At the time I'm working in the civil aviation industry ✈️. 
 
 For more than three years now, we have been working with an ever-growing team on [unyt.org](https://unyt.org): a free open-source project that establishes the new standard for communication, focusing on privacy, security and data ownership. We are creating the **[Supranet](https://unyt.org/supranet)**!
 </p>
